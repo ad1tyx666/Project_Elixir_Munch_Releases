@@ -1,4 +1,4 @@
-### Project Elixir [![Download Project Elixir]()](https://projectelixiros.com/download)
+### [Project Elixir](https://projectelixiros.com/download)
 ![Project Elixir](https://github.com/Vincent4440/Project_Elixir_Munch_Releases/raw/main/Banner.jpg)
 
 ## About -
