@@ -1,7 +1,7 @@
 ![Project Elixir](https://github.com/Vincent4440/Project_Elixir_Munch_Releases/raw/main/Banner.jpg)
 
 ## About -
-I am building this PE rom for POCO F4 / Redmi K40s, OTA updates are not working for now but you can always update by dirty flashing new build without wiping anything. I will try my best always to keep this rom updated.
+I am building this PE rom for POCO F4 / Redmi K40s, OTA updates are working but you can always update by dirty flashing new build without wiping anything. I will try my best always to keep this rom updated.
                                            
  ## Instructions to flash -
 1. Have unlocked bootloader
