@@ -1,16 +1,3 @@
-# munch_pe_rom_releases-
-      ____            _           _        
-     |  _ \ _ __ ___ (_) ___  ___| |_      
-     | |_) | '__/ _ \| |/ _ \/ __| __|     
-     |  __/| | | (_) | |  __/ (__| |_      
-     |_|   |_|  \___// |\___|\___|\__|     
-     |_|            |_/                    
-                                           
-            _____ _ _     _                
-           | ____| (_)_ _(_)_ __           
-           |  _| | | \ \/ / | '__|         
-           | |___| | |>  <| | |            
-           |_____|_|_/_/\_\_|_|            
-                                           
+![Project Elixir](https://github.com/Vincent4440/Project_Elixir_Munch_Releases/raw/main/Banner.jpg)
                                            
 Unofficial build of Project Elixir for Munch by Vinc3nt
