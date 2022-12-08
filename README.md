@@ -10,3 +10,11 @@
 8. select adb sideload
 9. adb sideload ProjectElixir_3.3_munch-xxxxxxx.zip
 10. now reboot
+
+## Instructions to update for existing PE users -
+1. reboot to recovery
+2. select adb sideload
+3. adb sideload ProjectElixir_3.3_munch-xxxxxxx.zip
+
+## Downloads -
+https://github.com/Vincent4440/Project_Elixir_Munch_Releases/releases
