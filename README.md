@@ -21,3 +21,7 @@ I am building this PE rom for POCO F4 / Redmi K40s, OTA updates are working but 
 
 ## Downloads -
 https://github.com/Vincent4440/Project_Elixir_Munch_Releases/releases
+
+## donate
+<a href="https://paypal.me/vinc3nt1/"><img src="dark.svg" height="40"></a>  
+If you enjoyed this project — or just feeling generous
