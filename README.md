@@ -1,6 +1,3 @@
-## Notice -
-i wont be maintaining Elixir now as i have to maintain Lineage-20 for munch, hope you understand
-
 ## About -
 I am building this PE rom for POCO F4 / Redmi K40s, OTA updates are working but you can always update by dirty flashing new build without wiping anything. I will try my best to keep this rom updated.
                                            
